@@ -1,10 +1,10 @@
-# 🐍 60 Days of Python
+# 🐍 30 Days of Python
 
 ## 🚀 About This Repository
-Welcome to my **60 Days of Python** learning journey!  
+Welcome to my **30 Days of Python** learning journey!  
 This repository is a commitment to **consistency, discipline, and growth** — one day at a time.
 
-For the next 60 days, I will code **every single day**, learn new Python concepts, practice problems, and build small projects to strengthen my foundations and problem-solving skills.
+For the next 30 days, I will code **every single day**, learn new Python concepts, practice problems, and build small projects to strengthen my foundations and problem-solving skills.
 
 > **Goal:** Progress over perfection.
 
@@ -21,7 +21,7 @@ Consistency beats motivation. Showing up every day is the real win 💪
 ---
 
 ## 📅 Challenge Structure
-- ⏳ **Duration:** 60 Days
+- ⏳ **Duration:** 30 Days
 - 🧠 **Level:** Beginner → Intermediate
 - 🧑‍💻 **Approach:** Learn → Practice → Apply
 
